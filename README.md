@@ -12,8 +12,10 @@
 ## Data Pendidikan
 
 ### Formal
-
-
+| Sekolah Dasar | SDN Kadupugur |
+| ------------- | ------------- |
+| SMP           | SMPN 1 Warungkondang |
+| SMK           | SMKN 1 Cianjur |
 
 ### Non-Formal
 
